@@ -95,19 +95,11 @@
     * [Runtime](programming-languages/go/runtime/theory.md)
   * Rust 🦀
     * [Синтаксис](programming-languages/rust/syntax/)  
-      * переменные, типы данных, функции, циклы, управляющие конструкции
     * [Ownership](programming-languages/rust/ownership/)  
-      * владение, заимствование, lifetimes
     * [Структуры](programming-languages/rust/ownership/)  
-      * работа со структурами
     * [Enums](programming-languages/rust/enums/)  
-      * перечисления
     * [Модули](programming-languages/rust/modules/)  
-      * организация кода
     * [Общие коллекции](programming-languages/rust/common_collections/)  
-      * векторы, строки, HashMap
     * [Указатели](programming-languages/rust/pointers/)  
     * [Тестирование](programming-languages/rust/test_example/)  
-      * примеры тестов и бенчмарков
     * [Примеры проектов](programming-languages/rust/)  
-      * мини-игра, примеры библиотек
